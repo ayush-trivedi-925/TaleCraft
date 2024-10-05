@@ -13,9 +13,11 @@ TaleCraft is a web application that allows users to create, edit, and manage bot
 ## Technologies Used
 
 - **Express.js**: A fast, unopinionated, minimalist web framework for Node.js.
+- **REST** - REST (REpresentational State Transfer) is an architectural style for developing web services
 - **EJS**: A templating engine that allows you to generate HTML markup with plain JavaScript.
 - **MongoDB**: A NoSQL database to store user and story data.
 - **Passport.js**: An authentication middleware for Node.js, used for user authentication.
 - **Google OAuth**: For secure user authentication through Google accounts.
-- **Express-session**: Middleware for managing user sessions in Express.
+- **Materialize CSS**: A modern responsive front-end framework based on Material Design, used for styling the application.
+
 
